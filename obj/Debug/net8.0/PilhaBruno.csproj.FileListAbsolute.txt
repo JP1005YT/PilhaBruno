@@ -1,0 +1,14 @@
+C:\Users\aluno\Downloads\PilhaBruno\bin\Debug\net8.0\PilhaBruno.exe
+C:\Users\aluno\Downloads\PilhaBruno\bin\Debug\net8.0\PilhaBruno.deps.json
+C:\Users\aluno\Downloads\PilhaBruno\bin\Debug\net8.0\PilhaBruno.runtimeconfig.json
+C:\Users\aluno\Downloads\PilhaBruno\bin\Debug\net8.0\PilhaBruno.dll
+C:\Users\aluno\Downloads\PilhaBruno\bin\Debug\net8.0\PilhaBruno.pdb
+C:\Users\aluno\Downloads\PilhaBruno\obj\Debug\net8.0\PilhaBruno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\PilhaBruno\obj\Debug\net8.0\PilhaBruno.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\PilhaBruno\obj\Debug\net8.0\PilhaBruno.AssemblyInfo.cs
+C:\Users\aluno\Downloads\PilhaBruno\obj\Debug\net8.0\PilhaBruno.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\PilhaBruno\obj\Debug\net8.0\PilhaBruno.dll
+C:\Users\aluno\Downloads\PilhaBruno\obj\Debug\net8.0\refint\PilhaBruno.dll
+C:\Users\aluno\Downloads\PilhaBruno\obj\Debug\net8.0\PilhaBruno.pdb
+C:\Users\aluno\Downloads\PilhaBruno\obj\Debug\net8.0\PilhaBruno.genruntimeconfig.cache
+C:\Users\aluno\Downloads\PilhaBruno\obj\Debug\net8.0\ref\PilhaBruno.dll
